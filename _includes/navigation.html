@@ -1,5 +1,5 @@
 {% for page in site.pages %}
-    {% if forloop.index == 0 %}
+    {% if page.tags contains "about" %}
         <a href="http://www.politepix.com">Politepix Main Site</a>
     {% endif %}
 {% endfor %}
