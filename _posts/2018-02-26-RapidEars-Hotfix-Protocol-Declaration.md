@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Info restored to alternate model
+title:      RapidEars hotfix
 date:       2018-02-26
 summary:    A hotfix to move a protocol declaration to the header
 categories: rapidears
